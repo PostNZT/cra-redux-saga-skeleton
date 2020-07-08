@@ -1,5 +1,5 @@
 {
-  "name": "d.buzz-client",
+  "name": "cra-redux-saga-skeleton",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
